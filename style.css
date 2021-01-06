@@ -1,0 +1,101 @@
+body{
+    
+    margin: 0px;
+    
+}
+h1{ font-family: 'Bebas Neue', cursive;
+    line-height: 10px;
+    letter-spacing: 2px;
+    font-size: 60px;
+}
+.font{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+}
+
+#height{
+    line-height: 5px;
+}
+.color{
+    color: rgb(45, 43, 85);
+}
+#dec{
+    color: tomato;
+}
+.size{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 2%;
+
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.size img{
+    width: 100%;
+}
+section{
+    height: 600px;
+}
+
+#edit{
+    color: tomato;
+}
+.backg{
+    background-color: rgb(238, 238, 238);
+}
+.backg h2{
+    text-align: center;
+    padding-top: 100px;
+}
+ .wdth{
+    width: 100%;
+}
+.boarder{
+   background-color: white;
+   border-radius: 10px;
+   width: 25%;
+   margin-top: 5%;
+   margin-left: 6%;
+   padding: 5px;
+}
+.bg-color{
+    background: url("images/Group_33094_1.png");
+     background-repeat: no-repeat;
+     background-position: center;
+     width: 50%;
+     border-radius: 20px;
+     margin: 5% auto;
+     padding: 10px;
+}
+.text{
+    color: white;
+     display: inline-block;
+     padding: 10px;
+}
+.btn{
+    float: right;
+    text-decoration: none;
+    color: black;
+    background:linear-gradient(90deg,red, tomato);
+padding: 10px;
+border-radius: 5px;
+margin-top:50px;
+margin-right: 5%;
+}
+
+.bio{
+    color: goldenrod;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+.info{
+    color: gray;
+    margin-left: 5%
+}
